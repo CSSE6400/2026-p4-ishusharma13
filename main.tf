@@ -13,7 +13,7 @@ default_tags {
 tags = {
 Environment = "Dev"
 Course = "CSSE6400"
-StudentID = "<s4921211>"
+StudentID = "s4921211"
 }
 }
 }
